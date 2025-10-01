@@ -23,5 +23,5 @@ This project is aimed to uncover some insights from the Airbnb Open Data Tne fol
 5. Who are the top 10 hosts by calculated host listing coun!?
 6. Are hosts with verified identities more lkely to recerve poshtive reviews?
 7. Is there a correlation between the price of a listina and its service fee?
-8. What is the average review rate number(e.g., Stars) for listing, and does it very basedon the neighbourhood group and room type?
+8. What is the average review rate number(e.g., Stars) for listing, and does it very based on the neighbourhood group and room type?
 9. Are hosts with a higher calculated host listing count more likely to maintain higher availbility throughout the year?
